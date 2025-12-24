@@ -1,4 +1,4 @@
-## Abandon all hope, all ye who enter here
+## Abandon all hope, ye who enter here
 
 <!--
 **lizradway/lizradway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
